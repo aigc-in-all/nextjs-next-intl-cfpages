@@ -1,0 +1,31 @@
+{
+    "Metadata": {
+        "title": "Example App",
+        "description": "Example App Description",
+        "keywords": "keyword1, keyword2",
+        "og": {
+            "title": "Example App",
+            "description": "Example App Description"
+        }
+    },
+    "Header": {
+        "title": "Example App",
+        "blog": "Blog",
+        "about": "About"
+    },
+    "LocaleSwitcher": {
+        "label": "Change language",
+        "locale-en": "🇺🇸 English",
+        "locale-hi": "🇮🇳 Hindi",
+        "locale-id": "🇮🇩 Indonesian",
+        "locale-zh-TW": "🇹🇼 Traditional Chinese",
+        "locale-de": "🇩🇪 German"
+    },
+    "HomePage": {
+        "title": "Hello world!",
+        "about": "Go to the about page"
+    },
+    "AboutPage": {
+        "title": "About page"
+    }
+}

@@ -1,0 +1,1 @@
+nextjs + next-intl + cloudflare pages
